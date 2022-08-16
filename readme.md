@@ -1,6 +1,6 @@
 ## Neovim Setup
 I'm gradually switching from Vim to Neovim
-Because neovim is cooler and I don't really need so many fancy functionalities 
+because neovim is cooler and I don't really need so many fancy functionalities 
 
 ### Hot Keys
 

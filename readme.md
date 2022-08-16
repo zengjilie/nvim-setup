@@ -9,6 +9,7 @@ Key | Function
 jk  | esc
 ctrl+p | open markdown preview
 ctrl+n | open nerdtree (move cursor to nerdtree)
+tt     | close nerdtree
 ctrl+m | move cursor to editor
 ctrl+\ | open/close ternimal
 

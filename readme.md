@@ -7,8 +7,8 @@ because neovim is cooler and I don't really need so many fancy functionalities
 Key | Function 
 --- | --------
 jk  | esc
->  | move block of text right
->  | move block of text left
+\>  | move block of text right
+\<  | move block of text left
 ctrl+p | open markdown preview
 ctrl+n | open nerdtree (move cursor to nerdtree)
 tt     | close nerdtree

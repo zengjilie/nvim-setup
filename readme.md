@@ -1,6 +1,6 @@
 ## Neovim Setup
 I'm gradually switching from Vim to Neovim
-Because neovim is cooler and I don't really need so many fancy functionalities 
+because neovim is cooler and I don't really need so many fancy functionalities 
 
 ### Hot Keys
 
@@ -11,6 +11,7 @@ jk  | esc
 >  | move block of text left
 ctrl+p | open markdown preview
 ctrl+n | open nerdtree (move cursor to nerdtree)
+tt     | close nerdtree
 ctrl+m | move cursor to editor
 ctrl+\ | open/close ternimal
 

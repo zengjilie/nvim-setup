@@ -1,6 +1,5 @@
 ## Neovim Setup
-I'm gradually switching from Vim to Neovim
-because neovim is cooler and I don't really need so many fancy functionalities 
+Build my dream text editor :)
 
 ### Hot Keys
 

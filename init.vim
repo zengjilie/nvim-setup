@@ -27,6 +27,8 @@ colorscheme gruvbox
 " ==== Key Bindings ===
 
 inoremap jk <ESC>
+vnoremap < <gv
+vnoremap > >gv
 
 " NerdTree
 nnoremap <C-n> :NERDTreeFocus<CR>

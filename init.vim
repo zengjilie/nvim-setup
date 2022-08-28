@@ -30,6 +30,11 @@ inoremap jk <ESC>
 vnoremap < <gv
 vnoremap > >gv
 
+"switch between buffers
+map gm :bn<cr>
+map gn :bp<cr>
+map gd :bp\|bd #<cr>
+
 " NerdTree
 nnoremap <C-n> :NERDTreeFocus<CR>
 nnoremap tt :NERDTreeToggle<CR>

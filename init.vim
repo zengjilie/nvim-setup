@@ -14,7 +14,7 @@ call plug#begin()
 Plug 'https://github.com/vim-airline/vim-airline' " Status bar
 Plug 'https://github.com/vim-airline/vim-airline-themes.git' " Status bar theme
 Plug 'https://github.com/preservim/nerdtree' " NerdTree
-Plug 'voldikss/vim-floaterm' " Ternimal
+Plug 'voldikss/vim-floaterm' " Terminal
 Plug 'flazz/vim-colorschemes' "Color Schema
 Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install' } "Markdown Preview
 

@@ -14,7 +14,7 @@ call plug#begin()
 Plug 'https://github.com/vim-airline/vim-airline' " Status bar
 Plug 'https://github.com/vim-airline/vim-airline-themes.git' " Status bar theme
 Plug 'https://github.com/preservim/nerdtree' " NerdTree
-Plug 'voldikss/vim-floaterm' " Terminal
+Plug 'voldikss/vim-floaterm' " Ternimal
 Plug 'flazz/vim-colorschemes' "Color Schema
 Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install' } "Markdown Preview
 
@@ -38,6 +38,7 @@ map gd :bp\|bd #<cr>
 " NerdTree
 nnoremap <C-n> :NERDTreeFocus<CR>
 nnoremap tt :NERDTreeToggle<CR>
+nnoremap <C-n> <C-w><C-w>
 
 " Exit Vim if NERDTree is the only window remaining in the only tab.
 autocmd BufEnter * if tabpagenr('$') == 1 && winnr('$') == 1 && exists('b:NERDTree') && b:NERDTree.isTabTree() | quit | endif
